@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"><b>Vijfhuizen Roleplay</b></h1>
-<h4 align="center">Welkom bij de VijfhuizenRP Github.
-Vijfhuizen bestaat 5 jaar en heeft gemiddeld elke avond 100 spelers.
-  Met verschillende whitelisted jobs, activiteiten en mogelijkheden voor criminelen hoef je je nooit te vervelen!
-  Neem ook zeker een kijkje bij onze unieke appartementen, arcade of kermis. Wanneer kom jij langs?</h4>
+<h4 align="center">Welkom bij de VijfhuizenRP Github.</h4>
+<h4 align="center">Vijfhuizen bestaat 5 jaar en heeft gemiddeld elke avond 100 spelers.</h4>
+<h4 align="center">Met verschillende whitelisted jobs, activiteiten en mogelijkheden voor criminelen hoef je je nooit te vervelen!</h4>
+<h4 align="center">Neem ook zeker een kijkje bij onze unieke appartementen, arcade of kermis. Wanneer kom jij langs?</h4>
